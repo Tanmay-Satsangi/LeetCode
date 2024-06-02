@@ -17,7 +17,4 @@ class Solution:
             elif third_largest < nums[i]:
                 third_largest = nums[i]
 
-        if third_largest == float('-inf'):
-            return first_largest
-        else:
-            return third_largest
+        return first_largest if third_largest == float('-inf') else third_largest
