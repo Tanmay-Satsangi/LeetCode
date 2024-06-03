@@ -1,3 +1,6 @@
+# TC = O(N)
+# SC = O(N)
+
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
         nums_set = set(nums)
