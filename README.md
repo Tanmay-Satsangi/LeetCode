@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 # Math
 |  |
@@ -51,3 +52,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0191-number-of-1-bits) |
