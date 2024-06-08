@@ -15,6 +15,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2058-concatenation-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -26,6 +27,7 @@
 # Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 # Simulation
 |  |
@@ -34,6 +36,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 # Enumeration
 |  |
@@ -45,11 +48,13 @@
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 # Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 # Recursion
 |  |
 | ------- |
@@ -62,3 +67,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
+# Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
