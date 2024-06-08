@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 # Recursion
@@ -77,3 +78,11 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
