@@ -4,10 +4,12 @@ class Solution:
         n = len(arr)
         i = 1
 
-        while(count != k):
+        while(True):
             if i not in arr:
                 count += 1
+                if count == k:
+                    return i
             i += 1
 
-        return (i - 1)
+        # return (i - 1)
         
