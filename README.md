@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 # String
@@ -17,6 +18,7 @@
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +57,7 @@
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Math
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 # Counting
 |  |
 | ------- |
