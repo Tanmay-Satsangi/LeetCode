@@ -1,3 +1,5 @@
+# TC = O(log(min(a,b)))
+
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
         minm = min(nums)
