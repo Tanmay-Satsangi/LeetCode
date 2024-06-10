@@ -1,16 +1,21 @@
+# TC = O(logN)
+
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
         product = 1
         sums = 0
 
-        string = str(n)
-
-        for s in string: 
-            product *= (int(s))
-            sums += (int(s))
+        while (n):
+            digit = n % 10
+            product *= digit
+            sums += digit
+            n = n // 10
 
         res = product - sums
+
         return res
+
+        
 
 
         
