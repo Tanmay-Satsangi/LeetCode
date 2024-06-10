@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -53,6 +54,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 # Enumeration
 |  |
@@ -76,6 +78,7 @@
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Recursion
 |  |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 # Dynamic Programming
 |  |
 | ------- |
