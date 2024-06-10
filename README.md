@@ -75,6 +75,7 @@
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Recursion
 |  |
