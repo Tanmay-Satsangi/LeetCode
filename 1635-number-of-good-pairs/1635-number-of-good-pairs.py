@@ -1,13 +1,16 @@
+# TC = O(N)
+# SC = O(N)
+
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        n = len(nums)
-        count = 0
+        dict1 = {}
+        res = 0
 
-        for i in range(n):
-            for j in range(i + 1, n):
-                if nums[i] == nums[j]:
-                    count += 1
+        for num in nums:
+            if num not in dict1:
+                dict1[num] = 1
+            else: 
+                res += dict1[num]
+                dict1[num] += 1
 
-        return count
-
-        
+        return res
