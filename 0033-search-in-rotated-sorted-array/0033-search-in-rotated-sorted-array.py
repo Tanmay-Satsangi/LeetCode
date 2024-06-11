@@ -1,3 +1,8 @@
+# Binary Search 
+# TC = O(logN)
+# SC = O(1)
+
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         n = len(nums)
