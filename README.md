@@ -78,6 +78,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
