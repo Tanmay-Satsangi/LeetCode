@@ -1,9 +1,9 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> bool:
         n = len(nums)
-
+        
         low = 0
-        high = n - 1
+        high = (n - 1)
 
         while(low <= high):
             mid = (low + high) // 2
@@ -11,22 +11,26 @@ class Solution:
             if nums[mid] == target:
                 return True
 
+            #The only line change as compared to LC: 33 (Search in Rotated Sorted Array)
             if nums[low] == nums[mid] and nums[mid] == nums[high]:
                 low += 1
                 high -= 1
 
-            #check left part is sorted
-            elif (nums[low] <= nums[mid]):
-                #check condition for target and move low and high pointer
+            #Check 1st part is sorted
+            #Remember there is equal to sign TEST CASE: [3, 1] and target = 1
+            elif nums[low] <= nums[mid]:
+                #check target is present in 1st part
                 if nums[low] <= target and target < nums[mid]:
                     high = mid - 1
-                else: 
+                else:
                     low = mid + 1
 
-            else: 
+            #If 1st part is not sorted then definetely 2nd part is sorted.
+            else:
                 if nums[mid] < target and target <= nums[high]:
                     low = mid + 1
-                else: 
+                else:
                     high = mid - 1
 
         return False
+        
