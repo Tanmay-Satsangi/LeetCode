@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@
 | [0035-search-insert-position](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
