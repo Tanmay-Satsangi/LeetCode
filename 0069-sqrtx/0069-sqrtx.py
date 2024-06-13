@@ -9,7 +9,7 @@ class Solution:
             mid = (low + high) // 2
 
             if (mid * mid) <= x:
-                ans = mid
+                ans = mid # To understand why we does not return mid from here then run for "x = 9"
                 low = mid + 1 #check for greater positive numer
             else:
                 high = mid - 1
