@@ -1,3 +1,7 @@
+# Binary Search
+# TC = O(logN)
+# SC = O(1)
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         n = len(nums)
