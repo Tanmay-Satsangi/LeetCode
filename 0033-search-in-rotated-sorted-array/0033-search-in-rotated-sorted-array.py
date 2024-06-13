@@ -13,8 +13,9 @@ class Solution:
                 return mid
 
             #Check 1st part is sorted
+            #Remember there is equal to sign TEST CASE: [3, 1] and target = 1
             if nums[low] <= nums[mid]:
-                #check target is present is 1st part
+                #check target is present in 1st part
                 if nums[low] <= target and target < nums[mid]:
                     high = mid - 1
                 else:
