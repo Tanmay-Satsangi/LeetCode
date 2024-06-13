@@ -11,7 +11,9 @@ class Solution:
             if nums[mid] == target:
                 return True
 
-            #The only line change as compared to LC: 33 (Search in Rotated Sorted Array)
+            #Two line change as compared to LC: 33 (Search in Rotated Sorted Array)
+            # 1. Add below if condition
+            # 2. after this if convert 'if' to 'elif'
             if nums[low] == nums[mid] and nums[mid] == nums[high]:
                 low += 1
                 high -= 1
