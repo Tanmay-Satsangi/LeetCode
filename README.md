@@ -96,6 +96,7 @@
 | [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -152,3 +153,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+# Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
