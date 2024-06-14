@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -62,6 +63,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +91,7 @@
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
