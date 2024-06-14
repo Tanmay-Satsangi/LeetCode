@@ -1,7 +1,10 @@
+#https://www.youtube.com/watch?v=9ZbB397jU4k
+
+#Treat 2D array as 1D array.
+
+
 class Solution:
     def searchMatrix(self, arr: List[List[int]], target: int) -> bool:
-        #Treat 2D array as 1D array.
-
         row = len(arr)
         col = len(arr[0])
 
