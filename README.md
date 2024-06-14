@@ -7,6 +7,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # String
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [2058-concatenation-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Sliding Window
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Simulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Counting
 |  |
 | ------- |
