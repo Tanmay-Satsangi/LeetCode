@@ -1,5 +1,12 @@
 #This question is almost same as LC: 153 but there is 2 changes
-# Add if condition 
+# (i) Add if condition 
+#  if nums[low] == nums[mid] and nums[mid] == nums[high]:
+#                 low += 1
+#                 high -= 1
+
+# (ii) Convert next if to elif
+
+
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
@@ -20,6 +27,6 @@ class Solution:
                 low = mid + 1
 
             else:
-                high = mid
+                high = mid #because may be chance that mid could be the smallest element
 
-        return nums[low]
+        return nums[low]  # Low always return the minumum element of rotated sorted array.
