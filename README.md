@@ -56,6 +56,7 @@
 # Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2058-concatenation-of-array) |
 # Hash Table
@@ -89,6 +90,7 @@
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
@@ -145,4 +147,5 @@
 # Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
