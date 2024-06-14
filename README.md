@@ -34,6 +34,7 @@
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
+| [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -90,6 +91,7 @@
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
