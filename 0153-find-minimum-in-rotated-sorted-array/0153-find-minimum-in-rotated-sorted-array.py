@@ -9,7 +9,7 @@ class Solution:
         low = 0
         high = n - 1
 
-        #Remember there is not equal to sign
+        #Remember that there is not 'equal to' sign because it goes to infinite loop
         while (low < high):
             mid = (low + high) // 2
 
