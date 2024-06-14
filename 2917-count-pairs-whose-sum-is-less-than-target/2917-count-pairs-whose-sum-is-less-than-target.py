@@ -3,9 +3,17 @@ class Solution:
         n = len(nums)
         count = 0
 
-        for i in range(n):
-            for j in range(i + 1, n):
-                if nums[i] + nums[j] < target:
-                    count += 1
+        low = 0
+        high = n - 1
+
+        nums.sort()
+        while (low < high): #no "Equal to" sign because we did not include the pair where i == j
+            if (nums[low] + nums[high]) < target:
+                count += (high - low)
+                low += 1
+
+            else: 
+                high -= 1
 
         return count
+            
