@@ -5,20 +5,21 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         n = len(nums)
+
         low = 0
         high = n - 1
 
-        while(low < high):
+        #Remember there is not equal to sign
+        while (low < high):
             mid = (low + high) // 2
 
-            if nums[mid] > nums[high]:
+            if nums[mid] > nums[high]:  # if this condition is true then it guranteed that minimum element is present at [mid + 1, high] because mid is greter then the value at high
                 low = mid + 1
-
             else:
-                high = mid
+                high = mid #there is chance that 'mid' is may be the minimum element so, we cannot neglect mid
 
-
-        return nums[low]
+        return nums[low] # Low always return the minumum element of rotated sorted array.
+                
 
 
 
