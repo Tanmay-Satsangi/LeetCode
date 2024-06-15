@@ -12,6 +12,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
 # Array
@@ -142,6 +143,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
 # Combinatorics
@@ -161,3 +163,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
