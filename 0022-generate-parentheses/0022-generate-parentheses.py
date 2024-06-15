@@ -9,7 +9,7 @@ class Solution:
     def recursion(self, res, open, close, s, n):
         if len(s) == n * 2:
             res.append(s)
-            return 
+            # return 
         
         if (open < n):
             self.recursion(res, open + 1, close, s + "(", n)
