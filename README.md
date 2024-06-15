@@ -85,6 +85,7 @@
 | [0260-single-number-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 # Math
 |  |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
+| [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
 # Combinatorics
 |  |
 | ------- |
