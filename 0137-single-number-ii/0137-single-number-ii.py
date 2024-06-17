@@ -17,6 +17,9 @@ class Solution:
             if sum != 0:
                 ans |=  (sum << i)
 
+#             Python's integers are of arbitrary precision, meaning they can grow beyond the typical 32-bit representation.
+#             Python does not automatically interpret the MSB as the sign bit for large integers. Therefore, we need to manually adjust the result to simulate a 32-bit signed integer.
+
             if ans >= 2**31:
                 ans -= 2**32
 
