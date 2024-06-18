@@ -100,6 +100,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@
 # Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
 # Backtracking
 |  |
