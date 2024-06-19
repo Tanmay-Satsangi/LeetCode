@@ -1,4 +1,5 @@
 class Solution:
+    #candidate is replaced by variable 'nums' for our convenience
     def combinationSum(self, nums: List[int], target: int) -> List[List[int]]:
         res = []
         nums.sort()
