@@ -21,6 +21,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
@@ -179,5 +180,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
