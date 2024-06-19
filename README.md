@@ -15,6 +15,7 @@
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
+| [3379-score-of-a-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3379-score-of-a-string) |
 # Array
 |  |
 | ------- |
