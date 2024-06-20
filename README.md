@@ -87,6 +87,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@
 # Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0069-sqrtx) |
