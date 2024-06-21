@@ -53,11 +53,13 @@
 | [2058-concatenation-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2478-longest-nice-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2478-longest-nice-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2478-longest-nice-subarray) |
 # Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
+| [2478-longest-nice-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2478-longest-nice-subarray) |
 # Math
 |  |
 | ------- |
