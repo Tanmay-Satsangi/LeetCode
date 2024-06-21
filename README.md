@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
 | [3379-score-of-a-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3379-score-of-a-string) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
 # Combinatorics
 |  |
@@ -191,3 +193,4 @@
 | [0047-permutations-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0131-palindrome-partitioning) |
