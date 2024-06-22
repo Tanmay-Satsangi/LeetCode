@@ -104,6 +104,7 @@
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [2478-longest-nice-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2478-longest-nice-subarray) |
 # Math
@@ -121,6 +122,7 @@
 | [0231-power-of-two](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
