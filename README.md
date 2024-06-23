@@ -42,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0724-find-pivot-index) |
@@ -172,6 +173,7 @@
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0494-target-sum) |
 # Combinatorics
 |  |
 | ------- |
@@ -202,3 +204,4 @@
 | [0089-gray-code](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0494-target-sum) |
