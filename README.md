@@ -38,6 +38,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 # Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 # Matrix
 |  |
 | ------- |
@@ -213,3 +216,11 @@
 | [0216-combination-sum-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0800-letter-case-permutation) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
