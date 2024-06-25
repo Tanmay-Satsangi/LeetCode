@@ -9,4 +9,3 @@ class Solution:
                 heapq.heappush(heap, num)
 
         return heap[0]
-        
