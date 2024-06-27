@@ -7,6 +7,7 @@
 | [0202-happy-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0344-reverse-string) |
+| [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # String
@@ -51,6 +52,7 @@
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -72,6 +74,7 @@
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Simulation
 |  |
