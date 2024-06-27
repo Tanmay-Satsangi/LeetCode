@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=XZueXHOhO5E
+
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
         maxm = 0
