@@ -54,6 +54,7 @@
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
+| [1306-minimum-absolute-difference](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -75,6 +76,7 @@
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1306-minimum-absolute-difference](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Simulation
 |  |
