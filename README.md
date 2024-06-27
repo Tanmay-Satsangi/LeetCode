@@ -51,6 +51,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0645-set-mismatch) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1306-minimum-absolute-difference](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -229,3 +231,15 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+# Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+# Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
