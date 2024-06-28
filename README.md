@@ -141,6 +141,7 @@
 | [0728-self-dividing-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1284-four-divisors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1284-four-divisors) |
+| [1289-day-of-the-week](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
