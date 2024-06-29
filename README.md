@@ -249,5 +249,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
