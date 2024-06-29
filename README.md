@@ -251,4 +251,20 @@
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
