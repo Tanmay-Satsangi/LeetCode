@@ -244,3 +244,10 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [2659-number-of-even-and-odd-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
+<!---LeetCode Topics End-->
