@@ -256,11 +256,13 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+## Counting
+|  |
+| ------- |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 <!---LeetCode Topics End-->
