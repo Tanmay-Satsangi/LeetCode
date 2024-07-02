@@ -258,6 +258,7 @@
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1293-three-consecutive-odds](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Hash Table
 |  |
