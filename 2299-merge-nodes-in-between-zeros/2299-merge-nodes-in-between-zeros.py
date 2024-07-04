@@ -9,9 +9,6 @@ class Solution:
         curr = head.next
         sums = 0
         
-        # while curr.val == 0:
-        #     curr = curr.next
-            
         while curr:
             if curr.val != 0:
                 sums += curr.val
