@@ -1,18 +1,19 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
-
-        self.recursion(res, 0, 0, "", n)
+        self.backtrack(0, 0, "", n, res)
         return res
 
-    
-    def recursion(self, res, open, close, s, n):
-        if len(s) == n * 2:
+    def backtrack(self, open, close, s, n, res):
+        if open == n and close == n:
             res.append(s)
             return 
-        
+
         if (open < n):
-            self.recursion(res, open + 1, close, s + "(", n)
+            self.backtrack(open + 1, close, s + "(", n, res)
+
+        if (close < open):
+            self.backtrack(open, close + 1, s + ")", n, res)
+
+
         
-        if (open > close):
-            self.recursion(res, open, close + 1, s + ")", n)
