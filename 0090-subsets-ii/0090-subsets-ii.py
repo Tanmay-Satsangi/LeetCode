@@ -2,6 +2,7 @@ class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         res = []
         nums.sort()
+
         self.backtrack(0, [], nums, res)
         return res
 
@@ -16,6 +17,3 @@ class Solution:
             self.backtrack(i + 1, curr, nums, res)
             curr.pop()
 
-
-
-        
