@@ -2,19 +2,18 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
 
-        self.backtrack([], nums, res) #No need of start because loop always start from '0'.
+        self.backtrack([], res, nums)
         return res
 
-    def backtrack(self, curr, nums, res): #No need o
+    def backtrack(self, curr, res, nums):
         if len(curr) == len(nums):
             res.append(list(curr))
+            return
 
         for i in range(len(nums)):
             if nums[i] in curr:
                 continue
 
             curr.append(nums[i])
-            self.backtrack(curr, nums, res)
+            self.backtrack(curr, res, nums)
             curr.pop()
-
-        
