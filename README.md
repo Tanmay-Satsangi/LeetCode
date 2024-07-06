@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [2645-pass-the-pillow](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Rejection Sampling
 |  |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Design
 |  |
 | ------- |
