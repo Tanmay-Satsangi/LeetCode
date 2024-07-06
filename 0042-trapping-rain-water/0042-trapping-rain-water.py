@@ -1,3 +1,8 @@
+#TC = O(N) + O(N) + O(N) => O(N)
+#SC = O(N) + O(N) => O(N)
+
+#NetSetOS Approach or Striver 2nd last approach
+
 class Solution:
     def trap(self, height: List[int]) -> int:
         n = len(height)
