@@ -262,6 +262,7 @@
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
 | [1293-three-consecutive-odds](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -315,11 +316,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
