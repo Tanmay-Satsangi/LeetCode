@@ -1,12 +1,7 @@
-# RECURSIVE APPROACH - DFS(Depth first search)
-
-# TC = O(N * (2 ^ N))
-# SC = O(N) If we ignore the output space complexity i.e. res.
-# SC = O(N * (2 ^ N)) If consider the output space complexity 
-
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res = []
+
         self.backtrack(0, [], nums, res)
         return res
 
