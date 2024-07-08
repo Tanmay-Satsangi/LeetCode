@@ -257,6 +257,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -324,6 +325,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -351,6 +353,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sliding Window
 |  |
