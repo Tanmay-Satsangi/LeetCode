@@ -11,6 +11,4 @@ class Solution:
             chef_busy += customers[i][1]
             customer_waiting += (chef_busy - customers[i][0])
 
-        print(customer_waiting)
-
         return customer_waiting / n
