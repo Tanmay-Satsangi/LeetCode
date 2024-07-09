@@ -268,6 +268,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
 | [1293-three-consecutive-odds](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -331,6 +332,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,12 +340,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## String
 |  |
@@ -355,6 +359,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sliding Window
 |  |
