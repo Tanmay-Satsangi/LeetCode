@@ -270,6 +270,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1803-average-waiting-time) |
@@ -341,6 +342,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -408,4 +411,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
