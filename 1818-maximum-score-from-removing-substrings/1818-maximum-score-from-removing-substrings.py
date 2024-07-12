@@ -11,7 +11,6 @@ class Solution:
             top_score = x
             bot = "ba"
             bot_score = y
-
         # removing first top substrings cause they give more points
         stack: list[str] = []
         for char in s:
