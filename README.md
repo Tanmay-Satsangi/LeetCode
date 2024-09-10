@@ -260,6 +260,7 @@
 | [0011-container-with-most-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0075-sort-colors) |
@@ -286,6 +287,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
