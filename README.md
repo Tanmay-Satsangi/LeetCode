@@ -292,6 +292,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Backtracking
 |  |
@@ -329,6 +330,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Two Pointers
 |  |
@@ -365,6 +367,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
