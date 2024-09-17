@@ -278,6 +278,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2846-robot-collisions](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2846-robot-collisions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Hash Table
@@ -293,6 +294,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Backtracking
 |  |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Two Pointers
 |  |
@@ -370,6 +373,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
