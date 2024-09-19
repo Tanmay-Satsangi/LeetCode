@@ -313,6 +313,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -372,6 +373,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -419,6 +421,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -433,6 +436,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -443,4 +447,8 @@
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
