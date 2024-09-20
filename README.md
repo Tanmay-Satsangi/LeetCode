@@ -373,6 +373,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -415,6 +416,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
 ## Dynamic Programming
 |  |
@@ -451,4 +453,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
