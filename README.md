@@ -264,6 +264,7 @@
 | [0041-first-missing-positive](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
@@ -466,4 +468,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
