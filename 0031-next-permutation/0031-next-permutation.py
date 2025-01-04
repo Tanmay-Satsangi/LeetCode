@@ -23,12 +23,5 @@ class Solution:
         nums[i], nums[j] = nums[j], nums[i]    
         
         # reverse the array from non - descending element to last element 
-        l, r = n, len(nums) - 1
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -= 1
-        
-        return nums
-        
+        nums[n:] = nums[n:][::-1]
         
