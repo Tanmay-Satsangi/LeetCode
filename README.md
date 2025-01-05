@@ -269,6 +269,7 @@
 | [0075-sort-colors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0179-largest-number) |
@@ -430,6 +431,7 @@
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
