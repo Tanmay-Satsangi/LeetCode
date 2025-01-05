@@ -264,6 +264,7 @@
 | [0041-first-missing-positive](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0075-sort-colors) |
@@ -315,10 +316,12 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
