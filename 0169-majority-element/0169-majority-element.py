@@ -3,13 +3,14 @@ class Solution:
         count = 0
         maj_element = None
 
-        for element in nums:
-            if maj_element == element:
+        for ele in nums:
+            if maj_element == ele:
                 count += 1
             elif count == 0:
-                maj_element = element
+                maj_element = ele
                 count += 1
             else:
                 count -= 1
 
-        return maj_element
+        return maj_element 
+        
