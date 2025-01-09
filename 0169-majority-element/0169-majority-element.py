@@ -8,6 +8,7 @@ class Solution:
                 count += 1
             elif count == 0:
                 maj_element = element
+                count += 1
             else:
                 count -= 1
 
