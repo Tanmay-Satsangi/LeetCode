@@ -1,7 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         count = 0
-        maj_element = -1
+        maj_element = None
 
         for element in nums:
             if maj_element == element:
