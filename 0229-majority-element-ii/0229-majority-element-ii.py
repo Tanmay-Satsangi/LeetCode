@@ -4,43 +4,44 @@
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        nums1 = None
-        nums2 = None
-
-        count1 = 0
-        count2 = 0
-
+        num1 = num2 = -1, -1
+        count1 = count2 = 0
+        
         for ele in nums:
-            if nums1 == ele:
+            if num1 == ele:
                 count1 += 1
-            elif nums2 == ele:
+            elif num2 == ele:
                 count2 += 1
             elif count1 == 0:
-                count1 += 1
-                nums1 = ele
+                num1 = ele
+                count1 = 1
             elif count2 == 0:
-                count2 += 1
-                nums2 = ele
+                num2 = ele
+                count2 = 1
             else:
                 count1 -= 1
-                count2 -= 1
-
+                count2 -= 1 
+        
+        #Again traverse the nums and check the num1 and num2 appear more than n / 2 times
+        # #WHY AGAIN TRAVERSE: THEN RUN TEST CASE:
+        # 1. nums = [3, 2, 3]
+        # 2. nums = [1]
+        # 3. nums = [1, 2] #This test is not for again traverse concept, but to clear the concept
+        
+        
         c1 = 0
         c2 = 0
-
-        for ele in nums:
-            if ele == nums1:
-                c1 += 1
-            elif ele == nums2:
-                c2 += 1
-
         ans = []
-        if c1 > len(nums) / 3:
-            print("c1")
-            ans.append(nums1)
-        if c2 > len(nums) / 3:
-            print("c2")
-            ans.append(nums2)
-
+        
+        for ele in nums:
+            if ele == num1:
+                c1 += 1
+            elif ele == num2:
+                c2 += 1
+ 
+        if c1 > len(nums) // 3:
+            ans.append(num1)
+        if c2 > len(nums) // 3:
+            ans.append(num2)
         return ans
-
+        
