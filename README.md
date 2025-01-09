@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
@@ -460,6 +461,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
