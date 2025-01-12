@@ -1,10 +1,9 @@
-# https://www.youtube.com/watch?v=-zSxTJkcdAo
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         n = len(s)
-        visited = {}
+
         l = 0
+        visited = {}
         max_len = 0
 
         for r in range(n):
@@ -17,5 +16,3 @@ class Solution:
 
         return max_len
 
-
-        
