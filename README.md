@@ -427,6 +427,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
