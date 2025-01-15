@@ -372,6 +372,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -429,6 +430,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
+| [0908-middle-of-the-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
