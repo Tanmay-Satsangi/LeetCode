@@ -335,6 +335,7 @@
 | [0002-add-two-numbers](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
@@ -461,6 +462,7 @@
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -513,4 +515,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
