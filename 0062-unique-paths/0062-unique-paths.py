@@ -6,8 +6,8 @@
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        N = m + n - 2
-        r = m - 1
+        N = m + n - 2  # Number of rows + Number of columns - 2
+        r = m - 1      # Number of rows - 1
         res = 1
 
         for i in range(1, r + 1):
