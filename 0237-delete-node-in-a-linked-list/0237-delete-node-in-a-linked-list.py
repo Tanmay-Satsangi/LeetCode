@@ -1,3 +1,6 @@
+# TC = O(1)
+# SC = O(1)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
