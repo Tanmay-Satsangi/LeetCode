@@ -10,6 +10,7 @@ class Solution:
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
+        # We use node.next.val because the question specifies that the node to be deleted is not the last node in the linked list.
         node.val = node.next.val
         node.next = node.next.next
         
