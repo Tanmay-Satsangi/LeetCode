@@ -1,3 +1,7 @@
+# TC = O(N)  # In the worst-case scenario, the fast pointer, which moves quicker, will either reach the end of the list (in case of no loop) or meet the slow pointer.
+
+# SC = O(1)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
