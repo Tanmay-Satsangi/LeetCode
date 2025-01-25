@@ -251,6 +251,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Array
@@ -281,6 +282,7 @@
 | [0169-majority-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -377,6 +379,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -387,6 +390,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
