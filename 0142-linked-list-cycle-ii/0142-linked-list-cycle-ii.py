@@ -1,3 +1,6 @@
+# TC = O(2N)
+# SC = O(1)
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -5,21 +8,22 @@
 #         self.next = None
 
 class Solution:
-    def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def detectCycle(self, head: ListNode) -> ListNode:
         if not head:
             return None
-
-        fast = slow = entry = head
-
+        
+        slow = fast = entry = head
+        
+        #To check their is a loop is exist.
         while fast.next and fast.next.next:
-            fast = fast.next.next
             slow = slow.next
-
-            if fast == slow:
+            fast = fast.next.next
+            
+            #To find the entry point of the loop.
+            if slow == fast:
                 while entry != slow:
-                    entry = entry.next
                     slow = slow.next
-
+                    entry = entry.next
+                    
                 return entry
-
         return None
