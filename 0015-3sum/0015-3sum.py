@@ -1,3 +1,6 @@
+# TC = O(N ^ 2)
+# SC = O(1)
+
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
@@ -21,6 +24,7 @@ class Solution:
                     left += 1
                     right -= 1
 
+                    # To avoid duplicate values.
                     while (left < n and nums[left] == nums[left - 1]):
                         left += 1
 
