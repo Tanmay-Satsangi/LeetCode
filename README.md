@@ -287,6 +287,7 @@
 | [0229-majority-element-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0817-design-hashmap](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0817-design-hashmap) |
