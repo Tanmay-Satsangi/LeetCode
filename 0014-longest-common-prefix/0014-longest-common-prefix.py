@@ -1,3 +1,6 @@
+# TC = O(N * M) Where M = length of the shortest string and N = Number of string.
+# SC = O(1)
+
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         first_string = strs[0]
@@ -8,3 +11,4 @@ class Solution:
                     return first_string[:i]
 
         return first_string 
+        
