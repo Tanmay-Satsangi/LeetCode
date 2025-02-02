@@ -441,6 +441,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0179-largest-number) |
@@ -572,4 +573,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
