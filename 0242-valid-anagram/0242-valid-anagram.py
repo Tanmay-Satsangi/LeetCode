@@ -5,6 +5,13 @@
 
 # return ''.join(sorted(s)) == ''.join(sorted(t))  # sorted() returns a list of characters.
 
+# ------------------------------------------------------------------------------------------
+
+# 2nd Approach
+# TC = O(s1 + t1) 
+# SC = O(s1 + t1)
+# where s1 and t1 are the lengths of string s and t.
+
 from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
