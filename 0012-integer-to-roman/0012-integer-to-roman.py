@@ -9,7 +9,7 @@ class Solution:
 
         integer = ""
 
-        if num == "":
+        if num == "":  # Important edge case If the input string is null, the code returns i.e. None
             return num
 
         for sym, val in sym_list: 
