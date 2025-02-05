@@ -1,3 +1,6 @@
+# To understand the logic prefer this video: https://www.youtube.com/watch?v=1YUqtoT9YoE
+# and for code I prefer the ChatGPT
+
 class Solution:
     def countAndSay(self, n: int) -> str:
         result = "1"
