@@ -587,4 +587,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
