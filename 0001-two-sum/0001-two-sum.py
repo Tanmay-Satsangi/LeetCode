@@ -6,7 +6,7 @@ class Solution:
         for i in range(n):
             rem = target - nums[i]
 
-            if (rem in dict_nums) and (dict_nums[rem] != i):
+            if rem in dict_nums:
                 return [dict_nums[rem], i]
             else:
                 dict_nums[nums[i]] = i
