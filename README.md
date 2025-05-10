@@ -357,6 +357,7 @@
 | [0050-powx-n](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0415-add-strings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0415-add-strings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -459,6 +460,7 @@
 | [0214-shortest-palindrome](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0415-add-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -500,6 +502,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tanmay-Satsangi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
